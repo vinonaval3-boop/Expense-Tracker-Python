@@ -1,2 +1,14 @@
-# Expense-Tracker-Python
-“CLI-based expense tracker with analytics and charts using Python.”
+# 📊 Expense Tracker (Python)
+
+A command-line based **Expense Tracking Application** built in Python with support for:
+
+✔ Adding / Viewing / Editing / Deleting expenses  
+✔ CSV-based data storage  
+✔ Automatically generated charts & analytics  
+✔ Organized folder structure (utils, core, reports)  
+✔ Beginner-friendly code architecture
+
+---
+
+## 📁 Project Structure
+
